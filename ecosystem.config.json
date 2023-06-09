@@ -1,0 +1,9 @@
+{
+    "apps": [
+        {
+            "name": "SaaS Server",
+            "script": "ts-node",
+            "args": "dist/go.ts"
+        }
+    ]
+}
